@@ -1,4 +1,4 @@
-# minima
+# Minima
 
 *Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme. It's what you get when you run `jekyll new`.
 
@@ -8,7 +8,7 @@ version. e.g. https://github.com/jekyll/minima/blob/v2.5.0/README.md*
 *Running `bundle show minima` will provide you with the local path to your current theme version.*
 
 
-[Theme preview](https://jekyll.github.io/minima/)
+[Click here to see a theme preview of Minima](https://jekyll.github.io/minima/)
 
 ![minima theme preview](/screenshot.png)
 
